@@ -1,0 +1,6 @@
+@BankidBackend_HostAddress = http://localhost:5169
+
+GET {{BankidBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
